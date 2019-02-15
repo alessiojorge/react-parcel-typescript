@@ -1,0 +1,13 @@
+.stateless,
+.stateful {
+  padding: 10rem 0;
+  text-align: center;
+}
+
+.stateless {
+  background-color: $color-grey-lighter;
+}
+
+.stateful {
+  background-color: $color-grey-light;
+}

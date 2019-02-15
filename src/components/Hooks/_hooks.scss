@@ -1,0 +1,18 @@
+.hooks {
+  text-align: center;
+  padding: 10rem 0;
+  background-color: $color-grey-lighter;
+}
+
+.todo {
+  margin: 2rem 0;
+
+  &__text {
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  &__radio {
+    margin-left: 2rem;
+  }
+}
